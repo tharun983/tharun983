@@ -1,4 +1,18 @@
 ### Hi there 👋
+# Hi, I'm [Tharun] 👋
+
+```html
+<!-- Link the Typed.js library from a CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+
+<!-- Initialize Typed.js -->
+<script>
+var typed = new Typed('#typed', {
+    strings: ['Your Name'],
+    typeSpeed: 50,
+    loop: false
+});
+</script>
 
 <!--
 **tharun983/tharun983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
